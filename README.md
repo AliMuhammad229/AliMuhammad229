@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alimuhammad_am" target="blank"><img src="https://img.shields.io/twitter/follow/alimuhammad_am?logo=twitter&style=for-the-badge" alt="alimuhammad_am" /></a> </p>
 
-- 🔭 I’m currently working on **Real-time Anomaly Detection with Kafka & Spark, Pipeline, ptimized ETL Pipeline for Sales Forecasting**
+- 🔭 I’m currently working on **Real-time Anomaly Detection with Kafka & Spark, Pipeline, optimized ETL Pipeline for Sales Forecasting**
 
 - 🌱 I’m currently learning **PyTorch, OpenCV, GCP**
 
