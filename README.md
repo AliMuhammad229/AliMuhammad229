@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Muhammad - Data Engineering Wizard ✨</h1>
+<h1 align="center">Hello 👋, I'm Ali Muhammad - Data Engineering Wizard ✨</h1>
 <h3 align="center">Data Engineer | Big Data Wrangler | Data Practitioner | Python Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/alimuhammad_am" target="blank"><img src="https://img.shields.io/twitter/follow/alimuhammad_am?logo=twitter&style=for-the-badge" alt="alimuhammad_am" /></a> </p>
 
-- 🔭 I’m currently working on **Real-time Anomaly Detection with Kafka & Spark, Pipeline, optimized ETL Pipeline for Sales Forecasting**
+- 🔭 I’m currently working on **Realtime Streaming with Apache Flink, Pipeline, optimized ETL Pipeline for Sales Forecasting**
 
 - 🌱 I’m currently learning **PyTorch, OpenCV, GCP**
 
