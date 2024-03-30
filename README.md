@@ -18,7 +18,7 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alimuhammad_am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimuhammad_am" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/muhammad990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alimuhammad_am" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ali-muhammad-2343691ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-muhammad-2343691ab/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alimuhammad.am7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alimuhammad.am7/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/aliqasim_am7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/aliqasim_am7" height="30" width="40" /></a>
