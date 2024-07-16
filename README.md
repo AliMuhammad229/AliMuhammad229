@@ -1,20 +1,22 @@
 <h1 align="center">Hello 👋, I'm Ali Muhammad</h1>
-<h3 align="center">Data Engineer | Big Data Wrangler | Data Practitioner | Python Enthusiast</h3>
+<h3 align="center">Data Engineer | Big Data Engineer | Data Scientist | Data Practitioner | Python Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/alimuhammad_am" target="blank"><img src="https://img.shields.io/twitter/follow/alimuhammad_am?logo=twitter&style=for-the-badge" alt="alimuhammad_am" /></a> </p>
 
-- 🔭 I’m currently working on **Realtime Streaming with Apache Flink**
+- 🔭 I’m currently working on **AWS - PySpark**
 
-- 🌱 I’m currently learning **PyTorch, OpenCV, GCP**
+- 🌱 I’m currently learning **PyTorch, OpenCV, LLM Models**
 
 - 👯 I’m looking to collaborate on projects that align with **ETL Pipelining using Cloud Services, Real-Time Data Streaming, Big Data Engineering, Deep Learning, and Machine Learning**
 
 - 💬 Ask me about **Data Engineering, Machine Learning, Data Analyst, Data Science**
 
 - 📫 How to reach me **aliqasim.am7@gmail.com**
+
+- Resume **aliqasim.am7@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
