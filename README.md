@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ali Muhammad</h1>
-<h3 align="center">Data Engineer | Big Data Engineer | Data Scientist | Data Practitioner | Python Enthusiast</h3>
+<h3 align="center">Data Engineer | Big Data Engineer | Data Scientist | Python Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aliqasim.am7@gmail.com**
 
-- 📄 Know me about my experience **<a href="https://drive.google.com/file/d/1myn54VJPplOXSZrlJqtIEnhsi_BBtQFw/view?usp=sharing" target="blank">Resume</a>**
+- 📄 Know me about my experience **<a href="https://drive.google.com/file/d/1UVxdO_qqjHyqEGtJ0kpaAe9uwFk3Q-Jr/view?usp=drive_link" target="blank">Resume</a>**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
