@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ali Muhammad</h1>
 <h3 align="center">Data Engineer | Big Data Engineer | Data Scientist | Python Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"/>
 
 
 <br/>
