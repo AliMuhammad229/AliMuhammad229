@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **MS - Fabric**
+- 🔭 I’m currently working on Project **MS - Fabric**
 
 - 🌱 I’m currently learning **Agentic & Gen AI with LLM**
 
