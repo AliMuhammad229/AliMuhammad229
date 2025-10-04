@@ -6,9 +6,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on Project **MS - Fabric**
+- 🔭 Crafting modern data solutions with **Microsoft Fabric**
 
-- 🌱 I’m currently learning **Agentic & Gen AI with LLM**
+- 🌱 Exploring the intersection of **Data Engineering & Generative AI**
 
 - 💬 Ask me about **Data Engineering, Machine Learning, Data Analyst, Data Science**
 
