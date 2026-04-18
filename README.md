@@ -50,8 +50,8 @@ I specialize in building scalable data ecosystems and high-performance ETL pipel
 
 ### 📈 Stats & Contributions
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliMuhammad229&show_icons=true&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMuhammad229&layout=compact&theme=transparent" />
 </p>
 
 ---
