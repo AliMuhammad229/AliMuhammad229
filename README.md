@@ -46,15 +46,6 @@ I specialize in building scalable data ecosystems and high-performance ETL pipel
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
 </p>
 
----
-
-### 📈 Stats & Contributions
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliMuhammad229&show_icons=true&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMuhammad229&layout=compact&theme=transparent" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 <p align="left">
